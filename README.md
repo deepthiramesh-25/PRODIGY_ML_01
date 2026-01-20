@@ -7,7 +7,7 @@ It includes data preprocessing, exploratory data analysis (EDA), model training,
 
 ##  Dataset
 - The dataset contains housing-related features used to predict house prices.
-- Dataset Source: (Mention source if available, e.g., Kaggle / sklearn / provided dataset)
+- Dataset Source: kaggle
 - Target Variable: House Price
 
 
